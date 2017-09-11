@@ -1,0 +1,10 @@
+{
+    "name" : "sample_web_2",
+    "version": "0.0.2",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "express": "^4.15.4"
+    }
+}

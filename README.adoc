@@ -1,0 +1,9 @@
+Pet project to learn https://lernajs.io/[lerna]
+
+### Commands
+
+```
+npm install -g lerna
+lerna bootstrap
+lerna run start
+```
